@@ -17,7 +17,4 @@ class Vector3 {
 
     float norm();
     Vector3& normalize();
-
-  private:
-    float _x, _y, _z;
 };
